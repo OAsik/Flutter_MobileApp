@@ -9,7 +9,7 @@ I did my best to cover all the concepts which you can see in today's popular mob
 
 But still, there is much things to do:
 1. Implementing landscape design
-2. Cupertione design changes for IOS devices
+2. Cupertino design changes for IOS devices
 3. Implementing a live chat module
 4. Connect to an API to get rid of dummy data
 
